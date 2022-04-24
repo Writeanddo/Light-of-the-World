@@ -1,0 +1,4 @@
+repository "DarkLight@ProdigalSon_games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
